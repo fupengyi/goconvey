@@ -91,16 +91,3 @@ Web UI 支持传统的 Go 测试，因此即使您不使用 GoConvey 测试也�
 
 # Contributors
 GoConvey 由 SmartyStreets 和几位贡献者提供给您（谢谢！）。
-
-
-
-
-
-
-
-
-
-
-
-
-
